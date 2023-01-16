@@ -1,4 +1,4 @@
-# FermatNews
+# maui
 > An App which gives informations about multiplle subject from the newsapi.org Api
 
 ## Table of Contents
@@ -19,8 +19,8 @@
 
 
 ## Screenshots
-![Example screenshot](./resources/images/screen.png)
-![Example screenshot](./resources/images/screen1.png)
+![Example screenshot](./Resources/Images/screen.PNG)
+![Example screenshot](./Resources/Images/screen1.PNG)
 
 
 
