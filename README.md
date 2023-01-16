@@ -1,5 +1,5 @@
 # maui
-> An App which gives informations about multiplle subject from the newsapi.org Api
+> Simple profile interface with maui
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -20,7 +20,7 @@
 
 ## Screenshots
 ![Example screenshot](./Resources/Images/screen.PNG)
-![Example screenshot](./Resources/Images/screen1.PNG)
+![Example screenshot](./Resources/Images/screen1.png)
 
 
 
