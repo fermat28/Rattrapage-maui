@@ -1,4 +1,10 @@
-# maui
+# Rattrapage Maui
+# Nom : Pouga LOGA I AIMERIC 
+# Matricule : 18G00261
+# Filière : TTIC GI 
+# Problems encontered : No One
+## Description : Simple Profile App with Maui
+
 > Simple profile interface with maui
 
 ## Table of Contents
