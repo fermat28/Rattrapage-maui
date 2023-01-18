@@ -2,10 +2,9 @@
 # Nom : Pouga LOGA I AIMERIC 
 # Matricule : 18G00261
 # Filière : TTIC GI 
-# Problems encontered : No One
-## Description : Simple Profile App with Maui
+# problèmes rencontrés : Aucun
+## Description : Simple interface de Profil avec Maui
 
-> Simple profile interface with maui
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -13,11 +12,6 @@
 * [Screenshots](#screenshots)
 * [Contact](#contact)
 <!-- * [License](#license) -->
-
-
-## General Information
-- With this app you can get some informations about multiples sources like bbc news or Bleach Report to stay informed
-- I start this project to the beginning for the fun but after all it is very useful so i hope it will help you
 
 
 ## Technologies Used
